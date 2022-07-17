@@ -1,0 +1,102 @@
+.sidebar .logo a.logo-normal, .off-canvas-sidebar .logo a.logo-normal .cuslogo{
+    color:#ef8157;
+}
+
+.sidebar .logo a.logo-normal, .off-canvas-sidebar .logo a.logo-normal .cuslogo:hover{
+    text-decoration: none;
+}
+
+.icon-img{
+    width: 90px;
+    height: 90px;
+}
+
+
+#map{
+    position: relative;
+    top:0%;
+    left: 0%;
+    width: 100%;
+    height: 80%;
+    border: 1px solid #f4f3ef;
+}
+
+.custom .leaflet-popup-tip, 
+.custom .leaflet-popup-content-wrapper{
+    background: #03265b;
+    color: #ffffff;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active{
+  color: #fff;
+  background-color: #03265b;
+  border-color: #fff #fff #fff;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link:focus{
+  color: #fff;
+  background-color: #03265b;
+  border-color: #fff #fff #fff;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link{
+  background-color: #fff;
+  color: #03265b;
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .cus-input-search{
+    width: 850px;
+    display: block;
+    height:50px;
+}
+
+.cus-btn-search{
+  position: absolute;
+  top: 0;
+  right:-250px;
+  width: 80px;
+  height: 50px;
+  background: #03265b;
+  color: #fff;
+  border: 2px solid #03265b;
+}
+
+.search{
+  width: 600px;
+  height: 40px;
+  position: relative;
+  background: white;
+  border-radius: 5px;
+}
+
+.bottom-bar .search input[type=text] {
+  color: #666666;
+  border-radius: 4px;
+  outline: none;  
+  font-size: 18px;
+}
+
+.bottom-bar .search button {
+  align-items: center;
+  border: 2px solid #03265b;
+  background: #03265b;
+  color: #fff;
+  border-radius: 5px;
+}
+
+.bottom-bar .search button:hover {
+  background: #03265b;
+  color: #fff;
+}
+
+.cus-adbar{
+  height: 90px;
+}
